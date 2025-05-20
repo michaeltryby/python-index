@@ -1,4 +1,4 @@
-# python-index
+# [python-index](https://michaeltryby.github.io/python-index/)
 
 A simple index for Python packages required by my projects
 

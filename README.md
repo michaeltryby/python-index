@@ -1,6 +1,6 @@
 # [python-index](https://michaeltryby.github.io/python-index/)
 
-A simple index for Python packages required by my projects
+An index for Python packages required by my projects
 
 ## Usage
 ```
